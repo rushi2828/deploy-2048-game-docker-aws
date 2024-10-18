@@ -1,4 +1,4 @@
-# DevOps-Project---Create-a-Game-using-Docker-and-Deploy-to-AWS
+# DevOps-Project: Deploy-2048 Game using Docker and AWS
 Steps to deploy game ‘2048’ with docker on AWS.
 Prerequisites: 
 AWS console account.
