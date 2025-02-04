@@ -12,8 +12,6 @@ Docker account.
 4. Verify image on docker desktop app OR by using command ‘docker images’ in terminal.
 ![image](https://github.com/rushi2828/Create-a-Game-using-Docker-and-Deploy-to-AWS/assets/33669698/ed085b4e-528f-4e59-8c0d-61bb65973968)
 
-OR
-![image](https://github.com/rushi2828/Create-a-Game-using-Docker-and-Deploy-to-AWS/assets/33669698/30af4439-bb20-46b8-9165-cd7f6f021530)
 
 5. Create docker container by using command 'docker run -d -p 80:80 fc6322e31eb6ccc1e0ac72badc2f5d750e2fe911ba4a63fad526b6b5ae7bb74d’
 6. Once the container is running then we can verify by going to ‘http://localhost/80’ 
