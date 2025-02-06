@@ -7,7 +7,7 @@ Docker account.
 2. Create Dockerfile to the folder
  ![image](https://github.com/rushi2828/Create-a-Game-using-Docker-and-Deploy-to-AWS/assets/33669698/a13342e8-4c00-4849-a80e-64082fd4ac32) 
 3. Create Dcoker image with command ‘docker build -t 2048-game.
-[It creating image taking too long then restart Docker desktop and sign in again]
+[It creating an image it's time taking process after completing restart Docker desktop]
 ![image](https://github.com/rushi2828/Create-a-Game-using-Docker-and-Deploy-to-AWS/assets/33669698/3618c61e-0c11-427e-acf5-046f6f10c8db)
 4. Verify image on docker desktop app OR by using command ‘docker images’ in terminal.
 ![image](https://github.com/rushi2828/Create-a-Game-using-Docker-and-Deploy-to-AWS/assets/33669698/ed085b4e-528f-4e59-8c0d-61bb65973968)
