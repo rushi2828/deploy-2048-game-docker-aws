@@ -14,7 +14,7 @@ Docker account.
 
 
 5. Create docker container by using command 'docker run -d -p 80:80 fc6322e31eb6ccc1e0ac72badc2f5d750e2fe911ba4a63fad526b6b5ae7bb74d’
-6. Once the container is running then we can verify by going to ‘http://localhost/80’ 
+6. Once the container is running then we can verify by going to ‘http://localhost:80’ 
 ![image](https://github.com/rushi2828/Create-a-Game-using-Docker-and-Deploy-to-AWS/assets/33669698/6d77c703-b5aa-47a4-b4c1-cf3980deea60)
 
 7. Go to AWS console and configure ‘Elastic beanstalk’ service and upload dockerfile.
